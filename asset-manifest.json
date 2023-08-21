@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Abhitechbot/static/css/main.e6c13ad2.css",
+    "main.js": "/Abhitechbot/static/js/main.7e157a41.js",
+    "static/js/787.6ea7ef18.chunk.js": "/Abhitechbot/static/js/787.6ea7ef18.chunk.js",
+    "index.html": "/Abhitechbot/index.html",
+    "main.e6c13ad2.css.map": "/Abhitechbot/static/css/main.e6c13ad2.css.map",
+    "main.7e157a41.js.map": "/Abhitechbot/static/js/main.7e157a41.js.map",
+    "787.6ea7ef18.chunk.js.map": "/Abhitechbot/static/js/787.6ea7ef18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7e157a41.js"
+  ]
+}
