@@ -1,0 +1,119 @@
+import React from "react";
+
+function Contact() {
+  return (
+    <>
+      <section id="contact" className="home-four-contact">
+        <div className="container">
+          <div className="row">
+            <div className="col-12">
+              <div className="home-contact-wrapper">
+                <div className="home-contact-info-container row align-items-center">
+                  <div className="col-12 col-md-6 home-two-contact-info-col">
+                    <div className="section-heading">
+                      <div className="sub-heading d-flex align-items-center">
+                        <img src="img/orangeDot.png" alt="orange-dot" />
+                        <p>Contact Me</p>
+                      </div>
+                      <h2 className="black-color line-height-3 h2">
+                        Need help? Get in touch now!
+                      </h2>
+                    </div>
+                    <div className="row row-mobile-margin gy-3 gy-sm-0 row-mobile-margin mt-50">
+                      <div className="col-12 d-flex align-items-center">
+                        <div className="mr-10">
+                          <div className="light-orange-bg-icon">
+                            <i className="fa-solid fa-phone-volume orange-color h4"></i>
+                          </div>
+                        </div>
+                        <div className="about-years-experience">
+                          <p className="fw-400 secondary-black p">Phone</p>
+                          <h4 className="fw-500 black-color h4">
+                            <a href="tel:+918101202074">+91 8101202074</a>
+                          </h4>
+                        </div>
+                      </div>
+                      <div className="col-12 d-flex align-items-center row-mobile-margin mt-35">
+                        <div className="mr-10">
+                          <div className="light-orange-bg-icon">
+                            <i className="fa-solid fa-envelope orange-color h4"></i>
+                          </div>
+                        </div>
+                        <div className="about-years-experience">
+                          <p className="fw-400 secondary-black p">Email</p>
+                          <h4 className="fw-500 black-color h4">
+                            <a href="mailto:abhitechbot@gmail.com">
+                              abhitechbot@gmail.com
+                            </a>
+                          </h4>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="col-12 col-md-6 row-mobile-margin">
+                    <form>
+                      <div className="row g-4">
+                        <div className="col-12 col-sm-6">
+                          <input
+                            type="textAlignLast: "
+                            className="form-control home-four-contact-input"
+                            placeholder="Name"
+                            required
+                          />
+                        </div>
+                        <div className="col-12 col-sm-6">
+                          <input
+                            type="email"
+                            className="form-control home-four-contact-input"
+                            placeholder="Email"
+                            required
+                          />
+                        </div>
+                        <div className="col-12 col-sm-6">
+                          <input
+                            type="tel"
+                            className="form-control home-four-contact-input"
+                            placeholder="Phone"
+                            required
+                          />
+                        </div>
+                        <div className="col-12 col-sm-6">
+                          <input
+                            type="date"
+                            className="form-control home-four-contact-input"
+                            required
+                          />
+                        </div>
+                        <div className="col-12">
+                          <textarea
+                            className="form-control home-four-contact-input home-four-textarea"
+                            placeholder="Message"
+                            required
+                          ></textarea>
+                        </div>
+                        <div className="col-12">
+                          <div className="col-12">
+                            <button
+                              type="submit"
+                              className="btn orange-btn btn_effect"
+                            >
+                              <span className="position-relative z-1">
+                                Send Me Message
+                              </span>
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </>
+  );
+}
+
+export default Contact;
