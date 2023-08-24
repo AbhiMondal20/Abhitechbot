@@ -10,7 +10,7 @@ function Blog() {
               <div className="blogs-wrapper">
                 <div className="section-heading-middle">
                   <div className="sub-heading d-flex align-items-center mx-auto">
-                    <img src="img/orangeDot.png" alt="orange-dot" />
+                    <img src="img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
                     <p>Blog</p>
                   </div>
                   <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -36,7 +36,7 @@ function Blog() {
                             <img
                               className="single-blog-featured-img img-fluid"
                               src="img/singleBlogFeatured.png"
-                              alt="featured image"
+                              alt="featured Abhitechbot - A Full Stack Developer"
                             />
                           </div>
                           <div className="single-blog-meta-container mt-50 row-mobile-margin d-flex align-items-center">
@@ -80,7 +80,7 @@ function Blog() {
                               <img
                                 className="blog-quotation-icon mb-30"
                                 src="img/quotation.png"
-                                alt="quotation icon"
+                                alt="quotation Abhitechbot - A Full Stack Developer"
                               />
                               <blockquote className="h4 line-height-6 fw-600 black-color mb-50 row-mobile-margin">
                                 At vero eos et accusamus et iusto odio
@@ -194,7 +194,7 @@ function Blog() {
                                 <img
                                   className="me-2"
                                   src="img/shareBlog.png"
-                                  alt="share icon"
+                                  alt="share Abhitechbot - A Full Stack Developer"
                                 />
                                 <a
                                   className="p secondary-black fw-400 line-height-7"
@@ -242,7 +242,7 @@ function Blog() {
                                         <img
                                           className="img-fluid"
                                           src="img/commenterOne.png"
-                                          alt="commenter image"
+                                          alt="commenter Abhitechbot - A Full Stack Developer"
                                         />
                                       </div>
                                     </div>
@@ -305,7 +305,7 @@ function Blog() {
                                                 <img
                                                   className="img-fluid"
                                                   src="img/replyerOne.png"
-                                                  alt="commenter image"
+                                                  alt="commenter Abhitechbot - A Full Stack Developer"
                                                 />
                                               </div>
                                             </div>
@@ -374,7 +374,7 @@ function Blog() {
                                         <img
                                           className="img-fluid"
                                           src="img/commenterTwo.png"
-                                          alt="commenter image"
+                                          alt="commenter Abhitechbot - A Full Stack Developer"
                                         />
                                       </div>
                                     </div>
@@ -437,7 +437,7 @@ function Blog() {
                                                 <img
                                                   className="img-fluid"
                                                   src="img/replyerTwo.png"
-                                                  alt="commenter image"
+                                                  alt="commenter Abhitechbot - A Full Stack Developer"
                                                 />
                                               </div>
                                             </div>
@@ -553,7 +553,7 @@ function Blog() {
                       <img
                         src="img/blogSeven.png"
                         className="card-img-top img-fluid blog-card-three-img"
-                        alt="blog image"
+                        alt="blog Abhitechbot - A Full Stack Developer"
                       />
                     </div>
                     <div className="card-body blog-card-two-body">
@@ -562,7 +562,7 @@ function Blog() {
                           Fashion
                         </p>
                         <div className="d-flex align-items-center blog-time-container">
-                          <img src="img/timeIcon.png" alt=" time icon" />
+                          <img src="img/timeIcon.png" alt=" time Abhitechbot - A Full Stack Developer" />
                           <p className="ms-2 p fw-400 secondary-black line-height-6 text-capitalize">
                             1 Min Read
                           </p>
@@ -585,7 +585,7 @@ function Blog() {
                       <img
                         src="img/blogEight.png"
                         className="card-img-top img-fluid blog-card-three-img"
-                        alt="blog image"
+                        alt="blog Abhitechbot - A Full Stack Developer"
                       />
                     </div>
                     <div className="card-body blog-card-two-body">
@@ -594,7 +594,7 @@ function Blog() {
                           Fashion
                         </p>
                         <div className="d-flex align-items-center blog-time-container">
-                          <img src="img/timeIcon.png" alt=" time icon" />
+                          <img src="img/timeIcon.png" alt=" time Abhitechbot - A Full Stack Developer" />
                           <p className="ms-2 p fw-400 secondary-black line-height-6 text-capitalize">
                             1 Min Read
                           </p>
@@ -622,7 +622,7 @@ function Blog() {
                       <img
                         src="img/blogNine.png"
                         className="card-img-top img-fluid blog-card-three-img"
-                        alt="blog image"
+                        alt="blog Abhitechbot - A Full Stack Developer"
                       />
                     </a>
                     <div className="card-body blog-card-two-body">
@@ -631,7 +631,7 @@ function Blog() {
                           Fashion
                         </p>
                         <div className="d-flex align-items-center blog-time-container">
-                          <img src="img/timeIcon.png" alt=" time icon" />
+                          <img src="img/timeIcon.png" alt=" time Abhitechbot - A Full Stack Developer" />
                           <p className="ms-2 p fw-400 secondary-black line-height-6 text-capitalize">
                             1 Min Read
                           </p>

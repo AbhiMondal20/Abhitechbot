@@ -10,7 +10,7 @@ function Portfolio() {
               <div className="portfolio-wrapper">
                 <div className="section-heading-middle">
                   <div className="sub-heading d-flex align-items-center mx-auto">
-                    <img src="img/orangeDot.png" alt="orange-dot" />
+                    <img src="img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
                     <p>Portfolio</p>
                   </div>
                   <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -74,7 +74,7 @@ function Portfolio() {
                             <img
                               className="img-fluid"
                               src="img/recentSix.png"
-                              alt="portfolio"
+                              alt="portfolio Abhitechbot - A Full Stack Developer" 
                             />
                           </div>
                         </div>
@@ -83,7 +83,7 @@ function Portfolio() {
                         <img
                           className="img-fluid"
                           src="img/recentSix.png"
-                          alt="portfolio"
+                          alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
@@ -117,7 +117,7 @@ function Portfolio() {
                             <img
                               className="img-fluid"
                               src="img/recentSeven.png"
-                              alt="portfolio"
+                              alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
                         </div>
@@ -126,7 +126,7 @@ function Portfolio() {
                         <img
                           className="img-fluid"
                           src="img/recentSeven.png"
-                          alt="portfolio"
+                          alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
@@ -161,7 +161,7 @@ function Portfolio() {
                             <img
                               className="img-fluid"
                               src="img/recentEight.png"
-                              alt="portfolio"
+                              alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
                         </div>
@@ -170,7 +170,7 @@ function Portfolio() {
                         <img
                           className="img-fluid"
                           src="img/recentEight.png"
-                          alt="portfolio"
+                          alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
@@ -204,7 +204,7 @@ function Portfolio() {
                             <img
                               className="img-fluid"
                               src="img/recentNine.png"
-                              alt="portfolio"
+                              alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
                         </div>
@@ -213,7 +213,7 @@ function Portfolio() {
                         <img
                           className="img-fluid"
                           src="img/recentNine.png"
-                          alt="portfolio"
+                          alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
@@ -247,7 +247,7 @@ function Portfolio() {
                             <img
                               className="img-fluid"
                               src="img/recentTen.png"
-                              alt="portfolio"
+                              alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
                         </div>
@@ -256,7 +256,7 @@ function Portfolio() {
                         <img
                           className="img-fluid"
                           src="img/recentTen.png"
-                          alt="portfolio"
+                          alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">

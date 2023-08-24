@@ -71,22 +71,22 @@ function Banner() {
                   <img
                     className="img-fluid home-banner-img"
                     src="img/mypic.jpg"
-                    alt="banner-image"
+                    alt="banner Abhitechbot - A Full Stack Developer"
                   />
                   <img
                     className="home-four-banner-figma position-absolute zoom-in-out delay-200"
                     src="img/FigmaShape.png"
-                    alt="figma"
+                    alt="figma Abhitechbot - A Full Stack Developer"
                   />
                   <img
                     className="home-four-banner-experience position-absolute zoom-in-out delay-100"
                     src="img/ExperienceShape.png"
-                    alt="experience"
+                    alt="experience Abhitechbot - A Full Stack Developer"
                   />
                   <img
                     className="home-four-banner-sketch position-absolute zoom-in-out"
                     src="img/SketchShape.png"
-                    alt="experience"
+                    alt="experience Abhitechbot - A Full Stack Developer"
                   />
                 </div>
               </div>

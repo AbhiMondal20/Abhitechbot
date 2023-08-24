@@ -13,28 +13,29 @@ function About() {
               <div className="about-wrapper">
                 <div className="row align-items-center">
                   <div className="about-image-col col-12 col-lg-6 text-center position-relative overflow-hidden pb-3 pb-sm-5">
-                    <img
-                      className="img-fluid position-relative z-1"
-                      src="img/photo.jpeg"
-                      alt="about image"
-                      style={img}
-                    />
+                  <img
+                  className="img-fluid position-relative z-1"
+                  src="img/photo.jpeg"
+                  alt="Abhitechbot - A Full Stack Developer"
+                  style={img}
+                />
+
                     <img
                       className="about-four-shape position-absolute rotate-360"
                       src="img/aboutFourCirclle.png"
-                      alt="circular shape"
+                      alt="Abhitechbot - A Full Stack Developer"
                     />
                     <img
                       className="position-absolute about-four-line-shape"
                       src="img/aboutFourLineBg.png"
-                      alt="about bg line"
+                      alt="Abhitechbot - A Full Stack Developer"
                     />
                   </div>
                   <div className="about-three-text-col col-12 col-lg-6 pl-50">
                     <div className="about-text-top">
                       <div className="section-heading">
                         <div className="sub-heading d-flex align-items-center">
-                          <img src="img/orangeDot.png" alt="orange-dot" />
+                          <img src="img/orangeDot.png" alt="Abhitechbot - A Full Stack Developer" />
                           <p>About Me</p>
                         </div>
                         <h2 className="black-color line-height-3 h2">

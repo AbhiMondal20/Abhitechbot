@@ -12,7 +12,7 @@ function Contact() {
                   <div className="col-12 col-md-6 home-two-contact-info-col">
                     <div className="section-heading">
                       <div className="sub-heading d-flex align-items-center">
-                        <img src="img/orangeDot.png" alt="orange-dot" />
+                        <img src="img/orangeDot.png" alt="Abhitechbot - A Full Stack Developer" />
                         <p>Contact Me</p>
                       </div>
                       <h2 className="black-color line-height-3 h2">

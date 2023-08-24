@@ -161,7 +161,7 @@ function Footer() {
                           <img
                             className="position-relative z-1"
                             src="img/send.png"
-                            alt="footer form send icon"
+                            alt="Abhitechbot - A Full Stack Developer form send"
                           />
                         </button>
                       </div>
@@ -189,11 +189,11 @@ function Footer() {
 
       <a
         href="https://wa.me/+918101202074"
-        class="whatsapp_float"
+        className="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
       >
-        <i class="fa-brands fa-whatsapp"></i>
+        <i className="fa-brands fa-whatsapp"></i>
       </a>
     </>
   );

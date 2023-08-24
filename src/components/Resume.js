@@ -12,7 +12,7 @@ function Resume() {
                   <div className="col-12 col-xl-5 resume-four-left">
                     <div className="section-heading">
                       <div className="sub-heading d-flex align-items-center">
-                        <img src="img/orangeDot.png" alt="orange-dot" />
+                        <img src="img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
                         <p>Resume</p>
                       </div>
                       <h2 className="black-color line-height-3 h2">
@@ -25,7 +25,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/react.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -42,7 +42,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/php.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -60,7 +60,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/js.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -78,7 +78,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/css.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -96,7 +96,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/HTML.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -114,7 +114,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/figmaLogo.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -131,7 +131,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/XD.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -148,7 +148,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/Photoshop.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -165,7 +165,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/canva.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -182,7 +182,7 @@ function Resume() {
                           <img
                             className="resume-four-skill-icon"
                             src="img/mysql.png"
-                            alt="resume four skill icon"
+                            alt="resume four skill Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                         <div className="resume-four-skill-title w-100 bg-white pt-10 pb-10 pl-50 pr-50">
@@ -231,7 +231,7 @@ function Resume() {
                             <div className="resume-tab-img-container mx-auto mx-sm-0">
                               <img
                                 src="img/phpl.jpg"
-                                alt="resume tab image"
+                                alt="resume tab Abhitechbot - A Full Stack Developer"
                                 height="50px"
                               />
                             </div>
@@ -258,7 +258,7 @@ function Resume() {
                             <div className="resume-tab-img-container mx-auto mx-sm-0">
                               <img
                                 src="img/drmalay.png"
-                                alt="resume tab image"
+                                alt="resume tab Abhitechbot - A Full Stack Developer"
                                 height="20px"
                               />
                             </div>
@@ -285,7 +285,7 @@ function Resume() {
                             <div className="resume-tab-img-container mx-auto mx-sm-0">
                               <img
                                 src="img/anandaloke.png"
-                                alt="resume tab image"
+                                alt="resume tab Abhitechbot - A Full Stack Developer"
                                 height="20px"
                               />
                             </div>
@@ -319,7 +319,7 @@ function Resume() {
                             <div className="resume-tab-img-container mx-auto mx-sm-0">
                               <img
                                 src="img/tabLogoTwo.png"
-                                alt="resume tab image"
+                                alt="resume tab Abhitechbot - A Full Stack Developer"
                               />
                             </div>
                           </div>
@@ -345,7 +345,7 @@ function Resume() {
                             <div className="resume-tab-img-container mx-auto mx-sm-0">
                               <img
                                 src="img/tabLogoOne.png"
-                                alt="resume tab image"
+                                alt="resume tab Abhitechbot - A Full Stack Developer"
                               />
                             </div>
                           </div>
@@ -371,7 +371,7 @@ function Resume() {
                             <div className="resume-tab-img-container mx-auto mx-sm-0">
                               <img
                                 src="img/tabLogoThree.png"
-                                alt="resume tab image"
+                                alt="resume tab Abhitechbot - A Full Stack Developer"
                               />
                             </div>
                           </div>

@@ -10,7 +10,7 @@ function Services() {
               <div className="services-wrapper">
                 <div className="section-heading-middle">
                   <div className="sub-heading d-flex align-items-center mx-auto">
-                    <img src="img/orangeDot.png" alt="orange-dot" />
+                    <img src="img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
                     <p>Services</p>
                   </div>
                   <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -22,7 +22,7 @@ function Services() {
                     <img
                       className="service-item-img"
                       src="img/serviceNine.png"
-                      alt="service-img-two"
+                      alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
                       Web Design
@@ -36,7 +36,7 @@ function Services() {
                     <img
                       className="service-item-img"
                       src="img/serviceTen.png"
-                      alt="service-img-four"
+                      alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
                       Web Development
@@ -50,7 +50,7 @@ function Services() {
                     <img
                       className="service-item-img"
                       src="img/serviceEleven.png"
-                      alt="service-img-seven"
+                      alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
                       Mobile Development
@@ -65,7 +65,7 @@ function Services() {
                     <img
                       className="service-item-img"
                       src="img/graph.png"
-                      alt="service-img-eight"
+                      alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
                       Graph Designer

@@ -10,7 +10,7 @@ function Partners() {
               <div className="partners-wrapper">
                 <div className="section-heading-middle">
                   <div className="sub-heading d-flex align-items-center mx-auto">
-                    <img src="img/orangeDot.png" alt="orange-dot" />
+                    <img src="img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
                     <p>Services</p>
                   </div>
                   <h2 className="black-color line-height-3 h2 text-uppercase text-center">
@@ -25,7 +25,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoOne.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>
@@ -34,7 +34,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoTwo.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>
@@ -43,7 +43,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoThree.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>
@@ -52,7 +52,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoFour.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>
@@ -61,7 +61,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoFive.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>
@@ -70,7 +70,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoSix.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>
@@ -79,7 +79,7 @@ function Partners() {
                           <img
                             className="text-center partner-img"
                             src="img/partnerLogoThree.png"
-                            alt="partner-image"
+                            alt="partner Abhitechbot - A Full Stack Developer"
                           />
                         </div>
                       </div>

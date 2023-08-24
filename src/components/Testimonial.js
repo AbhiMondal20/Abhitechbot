@@ -14,14 +14,14 @@ function Testimonial() {
                       <img
                         className="testimonial-four-image"
                         src="img/testimonialFour.png"
-                        alt="testimonial"
+                        alt="Abhitechbot - A Full Stack Developer"
                       />
                     </div>
                   </div>
                   <div className="col-12 col-lg-6 col-xl-8 testimonial-four-contents">
                     <div className="section-heading">
                       <div className="sub-heading d-flex align-items-center">
-                        <img src="img/orangeDot.png" alt="orange-dot" />
+                        <img src="img/orangeDot.png" alt="Abhitechbot - A Full Stack Developer orange-dot" />
                         <p>Testimonial</p>
                       </div>
                       <h2 className="black-color line-height-3 h2">
@@ -32,22 +32,22 @@ function Testimonial() {
                       <img
                         className="mr-10"
                         src="img/clientOne.png"
-                        alt="client "
+                        alt="client Abhitechbot - A Full Stack Developer"
                       />
                       <img
                         className="mr-10"
                         src="img/clientTwo.png"
-                        alt="client "
+                        alt="client Abhitechbot - A Full Stack Developer"
                       />
                       <img
                         className="mr-10"
                         src="img/clientThree.png"
-                        alt="client "
+                        alt="client Abhitechbot - A Full Stack Developer"
                       />
                       <img
                         className="mr-10"
                         src="img/clientFour.png"
-                        alt="client"
+                        alt="client Abhitechbot - A Full Stack Developer"
                       />
                     </div>
                     <div className="testimonial-four-carousel mt-30">

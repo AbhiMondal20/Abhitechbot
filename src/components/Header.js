@@ -90,7 +90,7 @@ function Header() {
           <div className="header-wrapper d-flex justify-content-between align-items-center">
             <div className="logo">
               <a href="#">
-                <img src="img/atblogo.png" alt="logo" />
+                <img src="img/atblogo.png" alt="Abhitechbot - A Full Stack Developer" />
               </a>
             </div>
             <div className="header-menu-wrapper main-menu">
