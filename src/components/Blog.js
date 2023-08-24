@@ -35,7 +35,7 @@ function Blog() {
                           <div className="single-blog-featured-img-container row-mobile-margin mt-50">
                             <img
                               className="single-blog-featured-img img-fluid"
-                              src="img/singleBlogFeatured.png"
+                              src="img/singleBlogFeatured.webp"
                               alt="featured Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -99,7 +99,7 @@ function Blog() {
                               <div className="col-12 col-lg-6">
                                 <img
                                   className="w-100 single-blog-inner-img"
-                                  src="img/blogEleven.png"
+                                  src="img/blogEleven.webp"
                                   alt="blog page inner image"
                                 />
                               </div>
@@ -193,7 +193,7 @@ function Blog() {
                               <div className="d-flex align-items-center pb-3 pb-sm-0">
                                 <img
                                   className="me-2"
-                                  src="img/shareBlog.png"
+                                  src="img/shareBlog.webp"
                                   alt="share Abhitechbot - A Full Stack Developer"
                                 />
                                 <a
@@ -241,7 +241,7 @@ function Blog() {
                                       <div className="img-overlay">
                                         <img
                                           className="img-fluid"
-                                          src="img/commenterOne.png"
+                                          src="img/commenterOne.webp"
                                           alt="commenter Abhitechbot - A Full Stack Developer"
                                         />
                                       </div>
@@ -304,7 +304,7 @@ function Blog() {
                                               <div className="img-overlay">
                                                 <img
                                                   className="img-fluid"
-                                                  src="img/replyerOne.png"
+                                                  src="img/replyerOne.webp"
                                                   alt="commenter Abhitechbot - A Full Stack Developer"
                                                 />
                                               </div>
@@ -373,7 +373,7 @@ function Blog() {
                                       <div className="img-overlay">
                                         <img
                                           className="img-fluid"
-                                          src="img/commenterTwo.png"
+                                          src="img/commenterTwo.webp"
                                           alt="commenter Abhitechbot - A Full Stack Developer"
                                         />
                                       </div>
@@ -436,7 +436,7 @@ function Blog() {
                                               <div className="img-overlay">
                                                 <img
                                                   className="img-fluid"
-                                                  src="img/replyerTwo.png"
+                                                  src="img/replyerTwo.webp"
                                                   alt="commenter Abhitechbot - A Full Stack Developer"
                                                 />
                                               </div>
@@ -551,7 +551,7 @@ function Blog() {
                       className="img-overlay"
                     >
                       <img
-                        src="img/blogSeven.png"
+                        src="img/blogSeven.webp"
                         className="card-img-top img-fluid blog-card-three-img"
                         alt="blog Abhitechbot - A Full Stack Developer"
                       />
@@ -583,7 +583,7 @@ function Blog() {
                       className="img-overlay"
                     >
                       <img
-                        src="img/blogEight.png"
+                        src="img/blogEight.webp"
                         className="card-img-top img-fluid blog-card-three-img"
                         alt="blog Abhitechbot - A Full Stack Developer"
                       />
@@ -620,7 +620,7 @@ function Blog() {
                       className="img-overlay"
                     >
                       <img
-                        src="img/blogNine.png"
+                        src="img/blogNine.webp"
                         className="card-img-top img-fluid blog-card-three-img"
                         alt="blog Abhitechbot - A Full Stack Developer"
                       />

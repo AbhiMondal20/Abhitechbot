@@ -70,12 +70,12 @@ function Banner() {
                 <div className="col-12 col-lg-6 col-xxl-5 text-center position-relative home-four-banner-img-col mb-5 mb-lg-0">
                   <img
                     className="img-fluid home-banner-img"
-                    src="img/mypic.jpg"
+                    src="img/mypic.webp"
                     alt="banner Abhitechbot - A Full Stack Developer"
                   />
                   <img
                     className="home-four-banner-figma position-absolute zoom-in-out delay-200"
-                    src="img/FigmaShape.png"
+                    src="img/FigmaShape.webp"
                     alt="figma Abhitechbot - A Full Stack Developer"
                   />
                   <img
@@ -85,7 +85,7 @@ function Banner() {
                   />
                   <img
                     className="home-four-banner-sketch position-absolute zoom-in-out"
-                    src="img/SketchShape.png"
+                    src="img/SketchShape.webp"
                     alt="experience Abhitechbot - A Full Stack Developer"
                   />
                 </div>

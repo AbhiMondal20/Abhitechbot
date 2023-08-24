@@ -21,7 +21,7 @@ function Services() {
                   <div className="service-grid-item text-start">
                     <img
                       className="service-item-img"
-                      src="img/serviceNine.png"
+                      src="img/serviceNine.webp"
                       alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
@@ -35,7 +35,7 @@ function Services() {
                   <div className="service-grid-item text-start">
                     <img
                       className="service-item-img"
-                      src="img/serviceTen.png"
+                      src="img/serviceTen.webp"
                       alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
@@ -49,7 +49,7 @@ function Services() {
                   <div className="service-grid-item text-start">
                     <img
                       className="service-item-img"
-                      src="img/serviceEleven.png"
+                      src="img/serviceEleven.webp"
                       alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
@@ -64,7 +64,7 @@ function Services() {
                   <div className="service-grid-item text-start">
                     <img
                       className="service-item-img"
-                      src="img/graph.png"
+                      src="img/graph.webp"
                       alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">

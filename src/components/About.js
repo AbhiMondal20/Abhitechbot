@@ -15,7 +15,7 @@ function About() {
                   <div className="about-image-col col-12 col-lg-6 text-center position-relative overflow-hidden pb-3 pb-sm-5">
                   <img
                   className="img-fluid position-relative z-1"
-                  src="img/photo.jpeg"
+                  src="img/photo.webp"
                   alt="Abhitechbot - A Full Stack Developer"
                   style={img}
                 />

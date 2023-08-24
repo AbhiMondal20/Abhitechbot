@@ -82,7 +82,7 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentSix.png"
+                          src="img/recentSix.webp"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
@@ -116,7 +116,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentSeven.png"
+                              src="img/recentSeven.webp"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -125,7 +125,7 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentSeven.png"
+                          src="img/recentSeven.webp"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
@@ -160,7 +160,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentEight.png"
+                              src="img/recentEight.webp"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -169,7 +169,7 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentEight.png"
+                          src="img/recentEight.webp"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
@@ -203,7 +203,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentNine.png"
+                              src="img/recentNine.webp"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -212,7 +212,7 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentNine.png"
+                          src="img/recentNine.webp"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
@@ -246,7 +246,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentTen.png"
+                              src="img/recentTen.webp"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -255,7 +255,7 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentTen.png"
+                          src="img/recentTen.webp"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
