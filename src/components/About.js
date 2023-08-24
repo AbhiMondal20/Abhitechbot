@@ -1,9 +1,9 @@
 import React from "react";
 
 function About() {
-  const img ={
-    borderRadius: '50%',
-  }
+  const img = {
+    borderRadius: "50%",
+  };
   return (
     <>
       <section id="about" className="about overflow-x-hidden">
@@ -38,11 +38,19 @@ function About() {
                           <p>About Me</p>
                         </div>
                         <h2 className="black-color line-height-3 h2">
-                        I specialize in crafting designs that enhance user experiences, making interactions more intuitive and user-friendly.
+                          I specialize in crafting designs that enhance user
+                          experiences, making interactions more intuitive and
+                          user-friendly.
                         </h2>
                       </div>
                       <p className="secondary-black line-height-7 mt-35">
-                      With a focused expertise, I excel at creating designs that elevate user experiences, instilling an inherent sense of intuitiveness and user-friendliness into every interaction. My core proficiency lies in fashioning solutions that seamlessly bridge the gap between users and technology, resulting in a harmonious and enjoyable digital journey.
+                        With a focused expertise, I excel at creating designs
+                        that elevate user experiences, instilling an inherent
+                        sense of intuitiveness and user-friendliness into every
+                        interaction. My core proficiency lies in fashioning
+                        solutions that seamlessly bridge the gap between users
+                        and technology, resulting in a harmonious and enjoyable
+                        digital journey.
                       </p>
                       {/* <p className="secondary-black line-height-7 mt-30">
                         Contrary to popular belief, Lorem Ipsum is not simply
@@ -50,7 +58,7 @@ function About() {
                         literature from 45 BC, making it over 2000 years old.
                       </p> */}
                     </div>
-                    <div className="row row-mobile-margin gy-3 gy-sm-0 mt-35">
+                    {/* <div className="row row-mobile-margin gy-3 gy-sm-0 mt-35">
                       <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
                         <div className="about-complete-project">
                           <h4 className="fw-700 orange-color about-count-heading">
@@ -81,13 +89,13 @@ function About() {
                           </h5>
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                     <a
                       data-aos="fade-up"
                       data-aos-delay="100"
                       data-aos-duration="1500"
                       className="btn home-banner-btn orange-btn mt-60 btn_effect"
-                      href="resume.html"
+                      href="#resume"
                     >
                       <span className="position-relative z-1">
                         Download My CV
