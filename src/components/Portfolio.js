@@ -73,7 +73,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentSix.png"
+                              src="img/recentSix.webp"
                               alt="portfolio Abhitechbot - A Full Stack Developer" 
                             />
                           </div>
@@ -88,7 +88,9 @@ function Portfolio() {
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
                         <p className="secondary-black fw-400 line-height-7 text-uppercase">
-                          Graphic Design
+                        <a href="https://www.paramounthospital.in/" target="_blank">
+                          Unveiling the Paramount Hospital Website
+                        </a> 
                         </p>
                         <a
                           data-bs-toggle="modal"
@@ -96,7 +98,7 @@ function Portfolio() {
                           href="#recentModalSix"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          The best way to impress your web
+                          Just an online presence – it's a gateway to quality healthcare, a source of information, and a platform that bridges the gap between medical expertise and patient empowerment. One such shining example is the Paramount Hospital Website.
                         </a>
                       </div>
                     </div>
@@ -114,12 +116,13 @@ function Portfolio() {
                               data-bs-dismiss="modal"
                               aria-label="Close"
                             ></button>
-                            <img
-                              className="img-fluid"
-                              src="img/recentSeven.webp"
-                              alt="portfolio Abhitechbot - A Full Stack Developer"
-                            />
+                              <img
+                                className="img-fluid"
+                                src="img/recentSeven.webp"
+                                alt="portfolio Abhitechbot - A Full Stack Developer"
+                              />
                           </div>
+
                         </div>
                       </div>
                       <div className="img-overlay-full">
@@ -131,7 +134,9 @@ function Portfolio() {
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
                         <p className="secondary-black fw-400 line-height-7 text-uppercase">
-                          Mobile Design
+                        <a  href="https://tele.jupitermri.in/" target="_blank">
+                          Online Teleradiology System for North Bengal Neuro Centre
+                        </a>
                         </p>
                         <a
                           data-bs-toggle="modal"
@@ -139,8 +144,7 @@ function Portfolio() {
                           href="#recentModalSeven"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          Case Study - Project the best way to impress your web
-                          application.
+                           One remarkable advancement that is transforming patient care is the Online Teleradiology System implemented at the North Bengal Neuro Centre. This innovative system is not only changing the way medical images are interpreted and shared but also revolutionizing the entire healthcare experience for both patients and healthcare professionals.
                         </a>
                       </div>
                     </div>
@@ -175,7 +179,9 @@ function Portfolio() {
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
                         <p className="secondary-black fw-400 line-height-7 text-uppercase">
-                          Development
+                          <a href="https://appt.paramounthospital.in/" target="_blank">
+                          Paramount Hospital's Innovative Appointment Booking System
+                          </a>
                         </p>
                         <a
                           data-bs-toggle="modal"
@@ -183,7 +189,7 @@ function Portfolio() {
                           href="#recentModalEight"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          Cryptocurrency futuristic project.
+                          In an era where technology is reshaping every aspect of our lives, healthcare is no exception. Paramount Hospital, a pioneer in patient-centric care, has taken a giant leap forward by introducing an innovative Appointment Booking System that's transforming the way patients access medical services.
                         </a>
                       </div>
                     </div>
