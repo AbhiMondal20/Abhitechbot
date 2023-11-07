@@ -1,4 +1,5 @@
 import React from "react";
+// import "../App.css";
 
 function Header() {
   const style1 = {
@@ -10,7 +11,7 @@ function Header() {
   };
 
   const style2 = {
-    display: "none",
+    // display: "none",
   };
 
   return (

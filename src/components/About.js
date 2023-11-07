@@ -15,7 +15,7 @@ function About() {
                   <div className="about-image-col col-12 col-lg-6 text-center position-relative overflow-hidden pb-3 pb-sm-5">
                   <img
                   className="img-fluid position-relative z-1"
-                  src="img/photo.webp"
+                  src="img/mypic-web2.png"
                   alt="Abhitechbot - A Full Stack Developer"
                   style={img}
                 />
@@ -38,10 +38,8 @@ function About() {
                           <img src="img/orangeDot.png" alt="Abhitechbot - A Full Stack Developer" />
                           <p>About Me</p>
                         </div>
-                        <h2 className="black-color line-height-3 h2">
-                          I specialize in crafting designs that enhance user
-                          experiences, making interactions more intuitive and
-                          user-friendly.
+                        <h2 className="black-color line-height-3 h3">
+                        Empowering the Digital World A Full Stack Developer's Journey in Crafting Innovative Web and Application Solutions.
                         </h2>
                       </div>
                       <p className="secondary-black line-height-7 mt-35">

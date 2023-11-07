@@ -5,8 +5,6 @@ import Banner from "./Banner";
 import About from "./About";
 import Resume from "./Resume";
 import Portfolio from "./Portfolio";
-// import Testimonial from './Testimonial'
-// import Partners from './Partners'
 import Services from "./Services";
 import Blog from "./Blog";
 import Contact from "./Contact";
@@ -18,8 +16,6 @@ function Home() {
       <About />
       <Resume />
       <Portfolio />
-      {/* <Testimonial/> */}
-      {/* <Partners/> */}
       <Services />
       <Blog />
       <Contact />

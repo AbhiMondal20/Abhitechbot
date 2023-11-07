@@ -13,7 +13,7 @@ function Portfolio() {
                     <img src="img/orangeDot.png" alt="orange-dot Abhitechbot - A Full Stack Developer" />
                     <p>Portfolio</p>
                   </div>
-                  <h2 className="black-color line-height-3 h2 text-uppercase text-center">
+                  <h2 className="black-color line-height-3 h2  text-center">
                     Some Recent Work
                   </h2>
                 </div>
@@ -73,7 +73,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentSix.webp"
+                              src="img/phpl_website.webp"
                               alt="portfolio Abhitechbot - A Full Stack Developer" 
                             />
                           </div>
@@ -82,14 +82,14 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentSix.webp"
+                          src="img/phpl_website.webp"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
-                        <p className="secondary-black fw-400 line-height-7 text-uppercase">
+                        <p className="secondary-black fw-400 line-height-7 ">
                         <a href="https://www.paramounthospital.in/" target="_blank">
-                          Unveiling the Paramount Hospital Website
+                          Paramount Hospital
                         </a> 
                         </p>
                         <a
@@ -98,7 +98,7 @@ function Portfolio() {
                           href="#recentModalSix"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          Just an online presence – it's a gateway to quality healthcare, a source of information, and a platform that bridges the gap between medical expertise and patient empowerment. One such shining example is the Paramount Hospital Website.
+                          Excellence in Healthcare, A Click Away for You.
                         </a>
                       </div>
                     </div>
@@ -133,9 +133,9 @@ function Portfolio() {
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
-                        <p className="secondary-black fw-400 line-height-7 text-uppercase">
+                        <p className="secondary-black fw-400 line-height-7 ">
                         <a  href="https://tele.jupitermri.in/" target="_blank">
-                          Online Teleradiology System for North Bengal Neuro Centre
+                          North Bengal Neuro Centre
                         </a>
                         </p>
                         <a
@@ -144,7 +144,7 @@ function Portfolio() {
                           href="#recentModalSeven"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                           One remarkable advancement that is transforming patient care is the Online Teleradiology System implemented at the North Bengal Neuro Centre. This innovative system is not only changing the way medical images are interpreted and shared but also revolutionizing the entire healthcare experience for both patients and healthcare professionals.
+                           Developing Online Teleradiology System for North Bengal Neuro Centre.
                         </a>
                       </div>
                     </div>
@@ -164,7 +164,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentEight.webp"
+                              src="img/pmp1.png"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -173,14 +173,14 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentEight.webp"
+                          src="img/pmp1.png"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
-                        <p className="secondary-black fw-400 line-height-7 text-uppercase">
-                          <a href="https://appt.paramounthospital.in/" target="_blank">
-                          Paramount Hospital's Innovative Appointment Booking System
+                        <p className="secondary-black fw-400 line-height-7 ">
+                          <a href="https://m.paramounthospital.in/" target="_blank">
+                          Paramount Hospital
                           </a>
                         </p>
                         <a
@@ -189,7 +189,7 @@ function Portfolio() {
                           href="#recentModalEight"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          In an era where technology is reshaping every aspect of our lives, healthcare is no exception. Paramount Hospital, a pioneer in patient-centric care, has taken a giant leap forward by introducing an innovative Appointment Booking System that's transforming the way patients access medical services.
+                          Paramount Hospital's Innovative Appointment Booking System
                         </a>
                       </div>
                     </div>
@@ -209,7 +209,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentNine.webp"
+                              src="img/resi.png"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -218,13 +218,15 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentNine.webp"
+                          src="img/resi.png"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
-                        <p className="secondary-black fw-400 line-height-7 text-uppercase">
-                          Mobile Design
+                        <p className="secondary-black fw-400 line-height-7 ">
+                        <a href="https://anandalokeresidency.com" target="_blank">
+                          Anandaloke Residency
+                          </a>
                         </p>
                         <a
                           data-bs-toggle="modal"
@@ -232,7 +234,7 @@ function Portfolio() {
                           href="#recentModalNine"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          Project creativ digital agency ts.
+                          Design Anandaloke Residency's hotel website for a stunning online presence.
                         </a>
                       </div>
                     </div>
@@ -252,7 +254,7 @@ function Portfolio() {
                             ></button>
                             <img
                               className="img-fluid"
-                              src="img/recentTen.webp"
+                              src="img/srdtech.png"
                               alt="portfolio Abhitechbot - A Full Stack Developer"
                             />
                           </div>
@@ -261,13 +263,13 @@ function Portfolio() {
                       <div className="img-overlay-full">
                         <img
                           className="img-fluid"
-                          src="img/recentTen.webp"
+                          src="img/srdtech.png"
                           alt="portfolio Abhitechbot - A Full Stack Developer"
                         />
                       </div>
                       <div className="w-100 justify-content-center align-items-center pt-15">
-                        <p className="secondary-black fw-400 line-height-7 text-uppercase">
-                          Ios Design
+                        <p className="secondary-black fw-400 line-height-7 ">
+                          <a href="https://www.srdtech.in/" target="_BLANK"> SRD Technologies</a>
                         </p>
                         <a
                           data-bs-toggle="modal"
@@ -275,7 +277,7 @@ function Portfolio() {
                           href="#recentModalTen"
                           className="h4 black-color fw-600 line-height-3 portfolio-massonary-item-link"
                         >
-                          Project creative business tas.
+                          Transforming IT solutions into streamlined digital experiences for businesses.
                         </a>
                       </div>
                     </div>
