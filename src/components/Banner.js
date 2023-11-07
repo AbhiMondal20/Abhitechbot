@@ -1,13 +1,17 @@
 import React from "react";
 
 function Banner() {
+  const customStyle = {
+    top: '60px', // You should use a string for the value
+    position: 'relative',
+  };
   return (
     <>
       <section id="home" className="home-four-banner position-relative">
         <div className="container-fluid custom-container">
           <div className="row">
             <div className="col-12">
-              <div className="home-banner-wrapper row align-items-end">
+              <div className="home-banner-wrapper row align-items-end" style={customStyle}>
                 <div className="col-12 col-lg-6 col-xxl-7 home-banner-text-col position-relative">
                   <div className="d-flex align-items-center">
                     {/* <p className="fw-500 black-color text-uppercase mb-30">

@@ -11,7 +11,7 @@ import Contact from "./Contact";
 function Home() {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <Banner />
       <About />
       <Resume />
