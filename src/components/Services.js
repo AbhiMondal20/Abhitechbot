@@ -68,7 +68,7 @@ function Services() {
                       alt="Abhitechbot - A Full Stack Developer"
                     />
                     <h3 className="h3 fw-500 service-item-heading black-color">
-                      Graph Designer
+                      Graph Design
                     </h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Experienced Graph Designer with creative flair. Produced

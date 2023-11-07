@@ -39,56 +39,13 @@ function About() {
                           <p>About Me</p>
                         </div>
                         <h2 className="black-color line-height-3 h3">
-                        Empowering the Digital World A Full Stack Developer's Journey in Crafting Innovative Web and Application Solutions.
+                        Elevate Your Online Presence with AbhiTechBot's Web Design & Development Solutions
                         </h2>
                       </div>
                       <p className="secondary-black line-height-7 mt-35">
-                        With a focused expertise, I excel at creating designs
-                        that elevate user experiences, instilling an inherent
-                        sense of intuitiveness and user-friendliness into every
-                        interaction. My core proficiency lies in fashioning
-                        solutions that seamlessly bridge the gap between users
-                        and technology, resulting in a harmonious and enjoyable
-                        digital journey.
+                      AbhiTechBot is your trusted partner in solving modern problems through innovative web design and development solutions. My goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, we design and develop solutions that resonate with your audience. Let us help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch web design and development services today!
                       </p>
-                      {/* <p className="secondary-black line-height-7 mt-30">
-                        Contrary to popular belief, Lorem Ipsum is not simply
-                        random text. It has roots in a piece of classical Latin
-                        literature from 45 BC, making it over 2000 years old.
-                      </p> */}
                     </div>
-                    {/* <div className="row row-mobile-margin gy-3 gy-sm-0 mt-35">
-                      <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
-                        <div className="about-complete-project">
-                          <h4 className="fw-700 orange-color about-count-heading">
-                            <span className="counter">10</span>+
-                          </h4>
-                          <h5 className="fw-500 black-color h5">
-                            Complete Project
-                          </h5>
-                        </div>
-                      </div>
-                      <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
-                        <div className="about-complete-project">
-                          <h4 className="fw-700 orange-color about-count-heading">
-                            <span className="counter">4</span>+
-                          </h4>
-                          <h5 className="fw-500 black-color h5">
-                            Clients on worldwide
-                          </h5>
-                        </div>
-                      </div>
-                      <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
-                        <div className="about-complete-project">
-                          <h4 className="fw-700 orange-color about-count-heading">
-                            <span className="counter">32</span>+
-                          </h4>
-                          <h5 className="fw-500 black-color h5">
-                            Client Satisfied
-                          </h5>
-                        </div>
-                      </div>
-                    </div> */}
                     <a
                       data-aos="fade-up"
                       data-aos-delay="100"

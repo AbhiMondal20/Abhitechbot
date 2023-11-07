@@ -188,7 +188,7 @@ function Footer() {
       </section>
 
       <a
-        href="https://wa.me/+918101202074"
+        href="https://wa.me/+918101202074?text=Hi%20AbhiTechBot"
         className="whatsapp_float"
         target="_blank"
         rel="noopener noreferrer"
