@@ -1,16 +1,10 @@
-import React from "react";
-import { Helmet } from "react-helmet";
-import Header from "./Header";
-import Footer from "./Footer";
-import Banner from "./Banner";
-import About from "./About";
-import Resume from "./Resume";
-import Portfolio from "./Portfolio";
-import Services from "./Services";
-import Blog from "./Blog";
-import Contact from "./Contact";
-// import Gallery from "./Gallery";
-function Home() {
+import React from 'react';
+import { Helmet } from 'react-helmet';
+import Header from '../Header';
+import Portfolio from '../Portfolio';
+import Footer from '../Footer';
+
+function PortfolioPage() {
   return (
     <>
       <Helmet>
@@ -23,7 +17,7 @@ function Home() {
         />
         <meta
           name="description"
-          content="Discover a world of creativity with abhitechbot. Offering web development, design, and personalized solutions to bring your digital vision to life."
+          content="Explore a diverse portfolio of creative projects by [Your Name]. From web development to design, witness the digital craftsmanship in action."
         />
         <meta
           name="keywords"
@@ -31,21 +25,14 @@ function Home() {
         <meta name="author" content="abhitechbot" />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://abhitechbot.com" />
-        <title>Abhitechbot - Creative Web Development and Design</title>
+        <title>Abhitechbot Innovative Web Development Project with Precision.</title>
       </Helmet>
 
       <Header />
-      <Banner />
-      <About />
-      <Services />
-      <Resume />
       <Portfolio />
-      {/* <Gallery/> */}
-      <Blog />
-      <Contact />
       <Footer />
     </>
   );
 }
 
-export default Home;
+export default PortfolioPage;

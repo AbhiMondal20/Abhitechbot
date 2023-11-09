@@ -1,4 +1,5 @@
 import React from "react";
+import { Outlet, Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -13,36 +14,36 @@ function Footer() {
                   <div className="footer-col-links">
                     <ul className="footer-col-link-container-two">
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#about"
+                          to="/about"
                         >
                           About
-                        </a>
+                        </Link>
                       </li>
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#portfolio"
+                          to="/portfolio"
                         >
                           Portfolio
-                        </a>
+                        </Link>
                       </li>
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#resume"
+                          to="/experience"
                         >
-                          Resume
-                        </a>
+                          Experience
+                        </Link>
                       </li>
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#contact"
+                          to="/contact"
                         >
                           Contact
-                        </a>
+                        </Link>
                       </li>
                     </ul>
                   </div>
@@ -52,36 +53,36 @@ function Footer() {
                   <div className="footer-col-links">
                     <ul className="footer-col-link-container-two">
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#services"
+                          to="/services"
                         >
                           Web Design
-                        </a>
+                        </Link>
                       </li>
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#services"
+                          to="/services"
                         >
                           Web Development
-                        </a>
+                        </Link>
                       </li>
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#services"
+                          to="/services"
                         >
                           Mobile Development
-                        </a>
+                        </Link>
                       </li>
                       <li className="footer-link-item">
-                        <a
+                        <Link
                           className="fw-400 p line-height-7 text-white"
-                          href="#services"
+                          to="/services"
                         >
                           Graph Designer
-                        </a>
+                        </Link>
                       </li>
                     </ul>
                   </div>
@@ -89,7 +90,10 @@ function Footer() {
                 <div className="col-12 col-sm-6 col-lg-4 mt-5 mt-lg-0">
                   <h4 className="h4 fw-500 text-white mb-15">Contact</h4>
                   <p className="p text-white line-height-7 fw-400">
-                    Siliguri, Darjeeling, West Bengal, India
+                    Paramount Hospital Pvt. LTD <br />
+                    Mangal Pandey Road
+                    <br />
+                    Khalpara Siliguri, West Bengal 734005
                   </p>
                   <p className="p line-height-7 fw-400 orange-color mt-10">
                     +91 8101202074

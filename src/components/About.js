@@ -43,9 +43,41 @@ function About() {
                         </h2>
                       </div>
                       <p className="secondary-black line-height-7 mt-35">
-                      AbhiTechBot is your trusted partner in solving modern problems through innovative web design and development solutions. My goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, we design and develop solutions that resonate with your audience. Let us help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch web design and development services today!
+                      AbhiTechBot is your trusted partner in Siliguri solving modern problems through innovative web design and development solutions. My goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, I design and develop solutions that resonate with your audience. Let me help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch web design and development services today!
                       </p>
                     </div>
+                    <div className="row row-mobile-margin gy-3 gy-sm-0 mt-35">
+                    <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
+                      <div className="about-complete-project">
+                        <h4 className="fw-700 orange-color about-count-heading">
+                          <span className="counter">15</span>+
+                        </h4>
+                        <h5 className="fw-500 black-color h5">
+                          Complete Project
+                        </h5>
+                      </div>
+                    </div>
+                    <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
+                      <div className="about-complete-project">
+                        <h4 className="fw-700 orange-color about-count-heading">
+                          <span className="counter">20</span>+
+                        </h4>
+                        <h5 className="fw-500 black-color h5">
+                          Clients
+                        </h5>
+                      </div>
+                    </div>
+                    <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
+                      <div className="about-complete-project">
+                        <h4 className="fw-700 orange-color about-count-heading">
+                          <span className="counter">20</span>+
+                        </h4>
+                        <h5 className="fw-500 black-color h5">
+                          Client Satisfied
+                        </h5>
+                      </div>
+                    </div>
+                  </div>
                     <a
                       data-aos="fade-up"
                       data-aos-delay="100"
