@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import Header from '../Header';
 import Services from '../Services';
 import Footer from '../Footer';
+import Navbar from '../Navbar';
 
 function ServicesPage() {
   return (
@@ -27,7 +28,8 @@ function ServicesPage() {
         <link rel="canonical" to="https://abhitechbot.com" />
         <title>Web Development | Transforming your Ideas into Digital Reality</title>
       </Helmet>
-      <Header/>
+      {/* <Header/> */}
+      <Navbar/>
       <br />
       <br />
       <br />

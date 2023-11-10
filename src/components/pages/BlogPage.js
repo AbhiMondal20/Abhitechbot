@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import Header from '../Header';
 import Blog from '../Blog';
 import Footer from '../Footer';
+import Navbar from '../Navbar';
 
 function BlogPage() {
     return (
@@ -29,7 +30,8 @@ function BlogPage() {
             </Helmet>
 
 
-            <Header />
+            {/* <Header /> */}
+            <Navbar/>
             <br />
             <br />
             <br />

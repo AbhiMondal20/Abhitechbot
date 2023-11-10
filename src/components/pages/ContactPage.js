@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import Header from '../Header';
 import Footer from '../Footer';
 import Contact from '../Contact';
+import Navbar from '../Navbar';
 
 function ContactPage() {
   return (
@@ -29,7 +30,8 @@ function ContactPage() {
         <title>Contact Abhitechbot - Web Developer. Reach out for collaboration, inquiries</title>
       </Helmet>
 
-      <Header />
+      {/* <Header /> */}
+      <Navbar/>
       <br />
       <br />
       <br />

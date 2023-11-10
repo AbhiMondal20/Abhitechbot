@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import Header from '../Header';
 import Portfolio from '../Portfolio';
 import Footer from '../Footer';
+import Navbar from '../Navbar';
 
 function PortfolioPage() {
   return (
@@ -28,7 +29,8 @@ function PortfolioPage() {
         <title>Abhitechbot Innovative Web Development Project with Precision.</title>
       </Helmet>
 
-      <Header />
+      {/* <Header /> */}
+      <Navbar/>
       <Portfolio />
       <Footer />
     </>

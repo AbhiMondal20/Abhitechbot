@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 import Header from "../Header";
 import Resume from "../Resume";
 import Footer from "../Footer";
+import Navbar from "../Navbar";
 
 function ExperiencePage() {
   return (
@@ -27,7 +28,8 @@ function ExperiencePage() {
         <link rel="canonical" to="https://abhitechbot.com" />
         <title>Abhitechbot | Abhi's Professional Experience - Resume</title>
       </Helmet>
-        <Header />
+        {/* <Header /> */}
+        <Navbar/>
         <Resume />
         <Footer />
     </>

@@ -1,61 +1,54 @@
-import React from "react";
+import React, { useState } from "react";
 import { Outlet, Link } from "react-router-dom";
+
 function Header() {
+  const [menuVisible, setMenuVisible] = useState(false);
+
+  const handleToggleMenu = () => {
+    setMenuVisible(!menuVisible);
+  };
+
   return (
     <>
-      <header className="bg-white header">
-        <div className="mobile-menu d-block d-md-none">
-          <nav>
-            <ul className="menu">
-              <li><Link to="/">Home</Link></li>
-              <li><Link to="/about">About</Link></li>
-              <li><Link to="/services">Services</Link></li>
-              <li><Link to="/experience">Experience</Link></li>
-              <li><Link to="/portfolio">Portfolio</Link></li>
-              <li><Link to="/blog">Blog</Link></li>
-              <li><Link to="/contact">Contact</Link></li>
-            </ul>
-          </nav>
-        </div>
-        <div className="container d-none d-md-block">
-          <div className="header-wrapper d-flex justify-content-between align-items-center">
-            <div className="logo">
-              <Link to="/">
-                <img src="img/atblogo_350-100.png" alt="logo" />
-              </Link>
-            </div>
-            <div className="header-menu-wrapper main-menu">
-              <nav className="desktop-nav">
-                <ul className="header-menu d-flex flex-row justify-content-center menu">
-                  <li className="px-2 px-lg-3">
-                    <Link className="menu-link" to="/">Home</Link>
-                  </li>
-                  <li className="px-2 px-lg-3">
-                    <Link className="menu-link" to="/about">About</Link>
-                  </li>
-                  <li className="px-2 px-lg-3">
-                    <Link className="menu-link" to="/services">Services</Link>
-                  </li>
-                  <li className="px-2 px-lg-3">
-                    <Link className="menu-link" to="/experience">Experience</Link>
-                  </li>
-                  <li className="px-2 px-lg-3">
-                    <Link className="menu-link" to="/portfolio">Portfolio</Link>
-                  </li>
-                  <li className="px-2 px-lg-3">
-                    <Link className="menu-link" to="/blog">Blog</Link>
-                  </li>
-                </ul>
-              </nav>
-            </div>
-            <div className="header-btn-wrapper">
-              <Link className="btn orange-btn btn_effect" to="/contact">
-                <span className="z-1 position-relative">contact Me</span>
-              </Link>
-            </div>
+      <nav className="navbar">
+        {/* <!-- LOGO --> */}
+        <div className="logo">MUO</div>
+
+        {/* <!-- NAVIGATION MENU --> */}
+        <ul className="nav-links">
+          {/* <!-- USING CHECKBOX HACK --> */}
+          <input
+            type="checkbox"
+            id="checkbox_toggle"
+            checked={menuVisible}
+            onChange={handleToggleMenu}
+          />
+          <label htmlFor="checkbox_toggle" className="hamburger">
+            &#9776;
+          </label>
+
+          {/* <!-- NAVIGATION MENUS --> */}
+          <div className={`menu ${menuVisible ? "visible" : ""}`}>
+            <li><a href="/">Home</a></li>
+            <li><a href="/">About</a></li>
+
+            <li className="services">
+              <a href="/">Services</a>
+
+              {/* <!-- DROPDOWN MENU --> */}
+              <ul className="dropdown">
+                <li><a href="/">Dropdown 1 </a></li>
+                <li><a href="/">Dropdown 2</a></li>
+                <li><a href="/">Dropdown 3</a></li>
+                <li><a href="/">Dropdown 4</a></li>
+              </ul>
+            </li>
+
+            <li><a href="/">Pricing</a></li>
+            <li><a href="/">Contact</a></li>
           </div>
-        </div>
-      </header>
+        </ul>
+      </nav>
     </>
   );
 }

@@ -3,6 +3,7 @@ import { Helmet } from 'react-helmet';
 import Header from '../Header';
 import About from '../About';
 import Footer from '../Footer';
+import Navbar from '../Navbar';
 
 function AboutPage() {
   return (
@@ -29,7 +30,8 @@ function AboutPage() {
         <title>Abhitechbot | Transforming Ideas into Digital Realities A Web Developer's Odyssey</title>
       </Helmet>
 
-      <Header />
+      {/* <Header /> */}
+      <Navbar/>
       <About />
       <Footer />
     </>

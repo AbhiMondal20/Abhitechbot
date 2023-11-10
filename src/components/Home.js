@@ -9,6 +9,7 @@ import Portfolio from "./Portfolio";
 import Services from "./Services";
 import Blog from "./Blog";
 import Contact from "./Contact";
+import Navbar from "./Navbar";
 // import Gallery from "./Gallery";
 function Home() {
   return (
@@ -34,7 +35,8 @@ function Home() {
         <title>Abhitechbot - Creative Web Development and Design</title>
       </Helmet>
 
-      <Header />
+      {/* <Header /> */}
+      <Navbar/>
       <Banner />
       <About />
       <Services />
