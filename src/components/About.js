@@ -50,7 +50,7 @@ function About() {
                     <div className="col-12 col-sm-4 col-lg-4 d-flex align-items-center">
                       <div className="about-complete-project">
                         <h4 className="fw-700 orange-color about-count-heading">
-                          <span className="counter">15</span>+
+                          <span className="counter">25</span>+
                         </h4>
                         <h5 className="fw-500 black-color h5">
                           Complete Project

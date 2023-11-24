@@ -90,7 +90,6 @@ function Footer() {
                 <div className="col-12 col-sm-6 col-lg-4 mt-5 mt-lg-0">
                   <h4 className="h4 fw-500 text-white mb-15">Contact</h4>
                   <p className="p text-white line-height-7 fw-400">
-                    Paramount Hospital Pvt. LTD <br />
                     Mangal Pandey Road
                     <br />
                     Khalpara Siliguri, West Bengal 734005
@@ -140,13 +139,21 @@ function Footer() {
                           <i className="fa-brands fa-github text-white h5"></i>
                         </a>
                       </li>
+                      <li className="footer-social-item">
+                        <a
+                          href="https://www.linkedin.com/in/abhitechbot"
+                          target="_BLANK"
+                        >
+                        <i class="fa-brands fa-linkedin text-white h5"></i>
+                        </a>
+                      </li>
                     </ul>
                   </div>
                 </div>
                 <div className="col-12 col-sm-6 col-lg-4 mt-5 mt-lg-0">
                   <div className="w-100">
                     <h2 className="text-white line-height-3 h2-secondary fw-700 text-start">
-                      Let's Make Consultation With Us!
+                      Let's Make Consultation With Me!
                     </h2>
                     <form className="row mt-35 footer-two-form">
                       <div className="col-8 col-sm-10">

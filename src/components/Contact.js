@@ -1,6 +1,31 @@
-import React from "react";
-
+import React, { useState } from "react";
+import axios from "axios";
 function Contact() {
+  const [formData, setFormData] = useState({
+    name: "",
+    email: "",
+    phone: "",
+    date: "",
+    message: "",
+  });
+
+  const handleChange = (e) => {
+    setFormData({ ...formData, [e.target.name]: e.target.value });
+  };
+
+  const handleSubmit = async (e) => {
+    e.preventDefault();
+
+    try {
+      const response = await axios.post("/api/contact", formData); // Replace with your backend API endpoint
+      console.log("Form submitted successfully", response.data);
+      // You can also handle success message or redirect the user after successful submission
+    } catch (error) {
+      console.error("Error submitting form", error);
+      // Handle error (display an error message to the user, etc.)
+    }
+  };
+
   return (
     <>
       <section id="contact" className="home-four-contact">
@@ -51,7 +76,7 @@ function Contact() {
                     </div>
                   </div>
                   <div className="col-12 col-md-6 row-mobile-margin">
-                    <form>
+                    <form onSubmit={handleSubmit}>
                       <div className="row g-4">
                         <div className="col-12 col-sm-6">
                           <input

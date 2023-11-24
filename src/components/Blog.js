@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Blog() {
   return (
@@ -34,15 +35,38 @@ function Blog() {
                           </p>
                         </div>
                       </div>
-                      <a href="#">
+                      <Link to="/blogdetails">
                         <span className="card-four-title h3 fw-600 line-height-3 black-color">
                           Streamlining Your Business with an Appointment Booking System
                         </span>
-                      </a>
+                      </Link>
                     </div>
                   </div>
-
+                  <div className="card blog-three-card">
+                    <div className="img-overlay">
+                      <img src="img/react_blog.png" className="card-img-top img-fluid blog-card-three-img" alt="blog Abhitechbot - A Full Stack Developer" />
+                    </div>
+                    <div className="card-body blog-card-two-body">
+                      <div className="d-flex align-items-center justify-content-between">
+                        <p className="blog-card-category orange-color fw-500 text-uppercase">
+                        A Developer's Guide
+                        </p>
+                        <div className="d-flex align-items-center blog-time-container">
+                          <img src="img/timeIcon.png" alt=" time Abhitechbot - A Full Stack Developer" />
+                          <p className="ms-2 p fw-400 secondary-black line-height-6 text-capitalize">
+                            24-Nov-2023
+                          </p>
+                        </div>
+                      </div>
+                      <Link to="/blogdetails">
+                        <span className="card-four-title h3 fw-600 line-height-3 black-color">
+                        In the fast-paced realm of web development, React has emerged...
+                        </span>
+                      </Link>
+                    </div>
+                  </div>
                 </div>
+                
               </div>
             </div>
           </div>

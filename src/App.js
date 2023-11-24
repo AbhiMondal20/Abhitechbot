@@ -7,6 +7,7 @@ import ExperiencePage from "./components/pages/ExperiencePage";
 import PortfolioPage from "./components/pages/PortfolioPage";
 import ServicesPage from "./components/pages/ServicesPage";
 import BlogPage from "./components/pages/BlogPage";
+import BlogDetailsPage from "./components/pages/BlogDetailsPage";
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
         <Route path="experience" element={<ExperiencePage />} />
         <Route path="portfolio" element={<PortfolioPage />} />
         <Route path="blog" element={<BlogPage />} />
+        <Route path="blogdetails" element={<BlogDetailsPage />} />
       </Routes>
     </BrowserRouter>
     </>

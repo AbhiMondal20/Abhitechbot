@@ -33,11 +33,11 @@ function Banner() {
                     </h1>
                   </div>
                   <p className="p line-height-7 mt-35 secondary-black fw-400">
-                     
+
                   </p>
                   <div className="mt-85">
                     <p className="p black-color fw-500 text-uppercase line-height-3">
-                      Find With Me  
+                      
                     </p>
                     <div className="mt-3">
                       <ul className="d-flex align-items-center mt-0">
@@ -64,6 +64,14 @@ function Banner() {
                         <li className="mr-20 home-four-banner-icon">
                           <a href="https://github.com/AbhiMondal20" target="_BLANK">
                             <i className="fa-brands fa-github text-white h4"></i>
+                          </a>
+                        </li>
+                        <li className="mr-20 home-four-banner-icon">
+                          <a
+                            href="https://www.linkedin.com/in/abhitechbot"
+                            target="_BLANK"
+                          >
+                            <i class="fa-brands fa-linkedin text-white h4"></i>
                           </a>
                         </li>
                       </ul>
