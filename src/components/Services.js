@@ -3,7 +3,8 @@ import React from "react";
 function Services() {
   return (
     <>
-      <section id="services" className="services">
+    <br/>
+      <section id="services" className="services m-4">
         <div className="container">
           <div className="row">
             <div className="col-12">
@@ -14,7 +15,7 @@ function Services() {
                     <p>Services</p>
                   </div>
                   <h2 className="black-color line-height-3 h2 text-uppercase text-center">
-                    My Services
+                    Our Services
                   </h2>
                 </div>
                 <div className="service-grid-container mt-50 row-mobile-margin">
@@ -72,7 +73,7 @@ function Services() {
                     </h3>
                     <p className="p service-item-paragraph secondary-black fw-400 line-height-7">
                       Experienced Graph Designer with creative flair. Produced
-                      captivating visuals in the last 2 years."
+                      captivating visuals in the last 2 years.
                     </p>
                   </div>
                 </div>

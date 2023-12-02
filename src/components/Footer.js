@@ -144,7 +144,7 @@ function Footer() {
                           href="https://www.linkedin.com/in/abhitechbot"
                           target="_BLANK"
                         >
-                        <i class="fa-brands fa-linkedin text-white h5"></i>
+                        <i className="fa-brands fa-linkedin text-white h5"></i>
                         </a>
                       </li>
                     </ul>

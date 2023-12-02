@@ -36,7 +36,6 @@ function Home() {
       </Helmet>
 
       {/* <Header /> */}
-      <Navbar/>
       <Banner />
       <About />
       <Services />
@@ -45,7 +44,6 @@ function Home() {
       {/* <Gallery/> */}
       <Blog />
       <Contact />
-      <Footer />
     </>
   );
 }

@@ -36,14 +36,14 @@ function About() {
                       <div className="section-heading">
                         <div className="sub-heading d-flex align-items-center">
                           <img src="img/orangeDot.png" alt="Abhitechbot - A Full Stack Developer" />
-                          <p>About Me</p>
+                          <p>About Us</p>
                         </div>
                         <h2 className="black-color line-height-3 h3">
                         Elevate Your Online Presence with AbhiTechBot's Web Design & Development Solutions
                         </h2>
                       </div>
                       <p className="secondary-black line-height-7 mt-35">
-                      AbhiTechBot is your trusted partner in Siliguri solving modern problems through innovative web design and development solutions. My goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, I design and develop solutions that resonate with your audience. Let me help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch web design and development services today!
+                      AbhiTechBot is your trusted partner in Siliguri solving modern problems through innovative web design and development solutions. Our goal is to craft cutting-edge websites and web applications that transform your online presence. With a focus on user experience, performance, and creativity, our design and develop solutions that resonate with your audience. Let us help you stay ahead in the digital landscape. Explore AbhiTechBot for top-notch web design and development services today!
                       </p>
                     </div>
                     <div className="row row-mobile-margin gy-3 gy-sm-0 mt-35">

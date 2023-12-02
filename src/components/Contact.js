@@ -28,7 +28,8 @@ function Contact() {
 
   return (
     <>
-      <section id="contact" className="home-four-contact">
+    <br/>
+      <section id="contact" className="home-four-contact m-4">
         <div className="container">
           <div className="row">
             <div className="col-12">

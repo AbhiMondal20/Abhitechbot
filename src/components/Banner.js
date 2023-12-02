@@ -37,7 +37,7 @@ function Banner() {
                   </p>
                   <div className="mt-85">
                     <p className="p black-color fw-500 text-uppercase line-height-3">
-                      
+
                     </p>
                     <div className="mt-3">
                       <ul className="d-flex align-items-center mt-0">
@@ -71,7 +71,7 @@ function Banner() {
                             href="https://www.linkedin.com/in/abhitechbot"
                             target="_BLANK"
                           >
-                            <i class="fa-brands fa-linkedin text-white h4"></i>
+                            <i className="fa-brands fa-linkedin text-white h4"></i>
                           </a>
                         </li>
                       </ul>
